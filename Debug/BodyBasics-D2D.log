@@ -1,0 +1,356 @@
+﻿  BodyBasics.cpp
+c:\users\princeqi\downloads\strsafe\stdarg.h(63): warning C4005: '_ADDRESSOF': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\vadefs.h(44): note: see previous definition of '_ADDRESSOF'
+c:\users\princeqi\downloads\strsafe\stdarg.h(82): warning C4005: '_INTSIZEOF': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\vadefs.h(74): note: see previous definition of '_INTSIZEOF'
+c:\users\princeqi\downloads\strsafe\specstrings.h(491): warning C4005: '__ecount': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2645): note: see previous definition of '__ecount'
+c:\users\princeqi\downloads\strsafe\specstrings.h(492): warning C4005: '__bcount': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2646): note: see previous definition of '__bcount'
+c:\users\princeqi\downloads\strsafe\specstrings.h(493): warning C4005: '__in': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2647): note: see previous definition of '__in'
+c:\users\princeqi\downloads\strsafe\specstrings.h(494): warning C4005: '__in_ecount': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2648): note: see previous definition of '__in_ecount'
+c:\users\princeqi\downloads\strsafe\specstrings.h(495): warning C4005: '__in_bcount': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2649): note: see previous definition of '__in_bcount'
+c:\users\princeqi\downloads\strsafe\specstrings.h(496): warning C4005: '__out': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2656): note: see previous definition of '__out'
+c:\users\princeqi\downloads\strsafe\specstrings.h(497): warning C4005: '__out_ecount': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2657): note: see previous definition of '__out_ecount'
+c:\users\princeqi\downloads\strsafe\specstrings.h(498): warning C4005: '__out_bcount': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2658): note: see previous definition of '__out_bcount'
+c:\users\princeqi\downloads\strsafe\specstrings.h(499): warning C4005: '__out_ecount_part': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2659): note: see previous definition of '__out_ecount_part'
+c:\users\princeqi\downloads\strsafe\specstrings.h(500): warning C4005: '__out_bcount_part': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2660): note: see previous definition of '__out_bcount_part'
+c:\users\princeqi\downloads\strsafe\specstrings.h(501): warning C4005: '__out_ecount_full': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2661): note: see previous definition of '__out_ecount_full'
+c:\users\princeqi\downloads\strsafe\specstrings.h(502): warning C4005: '__out_bcount_full': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2662): note: see previous definition of '__out_bcount_full'
+c:\users\princeqi\downloads\strsafe\specstrings.h(503): warning C4005: '__inout': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2675): note: see previous definition of '__inout'
+c:\users\princeqi\downloads\strsafe\specstrings.h(504): warning C4005: '__inout_ecount': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2676): note: see previous definition of '__inout_ecount'
+c:\users\princeqi\downloads\strsafe\specstrings.h(505): warning C4005: '__inout_bcount': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2677): note: see previous definition of '__inout_bcount'
+c:\users\princeqi\downloads\strsafe\specstrings.h(506): warning C4005: '__inout_ecount_part': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2678): note: see previous definition of '__inout_ecount_part'
+c:\users\princeqi\downloads\strsafe\specstrings.h(507): warning C4005: '__inout_bcount_part': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2679): note: see previous definition of '__inout_bcount_part'
+c:\users\princeqi\downloads\strsafe\specstrings.h(508): warning C4005: '__inout_ecount_full': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2680): note: see previous definition of '__inout_ecount_full'
+c:\users\princeqi\downloads\strsafe\specstrings.h(509): warning C4005: '__inout_bcount_full': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2681): note: see previous definition of '__inout_bcount_full'
+c:\users\princeqi\downloads\strsafe\specstrings.h(511): warning C4005: '__ecount_opt': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2688): note: see previous definition of '__ecount_opt'
+c:\users\princeqi\downloads\strsafe\specstrings.h(512): warning C4005: '__bcount_opt': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2689): note: see previous definition of '__bcount_opt'
+c:\users\princeqi\downloads\strsafe\specstrings.h(513): warning C4005: '__in_opt': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2690): note: see previous definition of '__in_opt'
+c:\users\princeqi\downloads\strsafe\specstrings.h(514): warning C4005: '__in_ecount_opt': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2691): note: see previous definition of '__in_ecount_opt'
+c:\users\princeqi\downloads\strsafe\specstrings.h(515): warning C4005: '__in_bcount_opt': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2692): note: see previous definition of '__in_bcount_opt'
+c:\users\princeqi\downloads\strsafe\specstrings.h(516): warning C4005: '__out_opt': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2699): note: see previous definition of '__out_opt'
+c:\users\princeqi\downloads\strsafe\specstrings.h(517): warning C4005: '__out_ecount_opt': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2700): note: see previous definition of '__out_ecount_opt'
+c:\users\princeqi\downloads\strsafe\specstrings.h(518): warning C4005: '__out_bcount_opt': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2701): note: see previous definition of '__out_bcount_opt'
+c:\users\princeqi\downloads\strsafe\specstrings.h(519): warning C4005: '__out_ecount_part_opt': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2702): note: see previous definition of '__out_ecount_part_opt'
+c:\users\princeqi\downloads\strsafe\specstrings.h(520): warning C4005: '__out_bcount_part_opt': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2703): note: see previous definition of '__out_bcount_part_opt'
+c:\users\princeqi\downloads\strsafe\specstrings.h(521): warning C4005: '__out_ecount_full_opt': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2704): note: see previous definition of '__out_ecount_full_opt'
+c:\users\princeqi\downloads\strsafe\specstrings.h(522): warning C4005: '__out_bcount_full_opt': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2705): note: see previous definition of '__out_bcount_full_opt'
+c:\users\princeqi\downloads\strsafe\specstrings.h(523): warning C4005: '__inout_opt': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2714): note: see previous definition of '__inout_opt'
+c:\users\princeqi\downloads\strsafe\specstrings.h(524): warning C4005: '__inout_ecount_opt': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2715): note: see previous definition of '__inout_ecount_opt'
+c:\users\princeqi\downloads\strsafe\specstrings.h(525): warning C4005: '__inout_bcount_opt': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2716): note: see previous definition of '__inout_bcount_opt'
+c:\users\princeqi\downloads\strsafe\specstrings.h(526): warning C4005: '__inout_ecount_part_opt': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2717): note: see previous definition of '__inout_ecount_part_opt'
+c:\users\princeqi\downloads\strsafe\specstrings.h(527): warning C4005: '__inout_bcount_part_opt': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2718): note: see previous definition of '__inout_bcount_part_opt'
+c:\users\princeqi\downloads\strsafe\specstrings.h(528): warning C4005: '__inout_ecount_full_opt': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2719): note: see previous definition of '__inout_ecount_full_opt'
+c:\users\princeqi\downloads\strsafe\specstrings.h(529): warning C4005: '__inout_bcount_full_opt': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2720): note: see previous definition of '__inout_bcount_full_opt'
+c:\users\princeqi\downloads\strsafe\specstrings.h(531): warning C4005: '__deref_ecount': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2728): note: see previous definition of '__deref_ecount'
+c:\users\princeqi\downloads\strsafe\specstrings.h(532): warning C4005: '__deref_bcount': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2729): note: see previous definition of '__deref_bcount'
+c:\users\princeqi\downloads\strsafe\specstrings.h(536): warning C4005: '__deref_out': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2730): note: see previous definition of '__deref_out'
+c:\users\princeqi\downloads\strsafe\specstrings.h(537): warning C4005: '__deref_out_ecount': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2731): note: see previous definition of '__deref_out_ecount'
+c:\users\princeqi\downloads\strsafe\specstrings.h(538): warning C4005: '__deref_out_bcount': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2732): note: see previous definition of '__deref_out_bcount'
+c:\users\princeqi\downloads\strsafe\specstrings.h(539): warning C4005: '__deref_out_ecount_part': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2733): note: see previous definition of '__deref_out_ecount_part'
+c:\users\princeqi\downloads\strsafe\specstrings.h(540): warning C4005: '__deref_out_bcount_part': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2734): note: see previous definition of '__deref_out_bcount_part'
+c:\users\princeqi\downloads\strsafe\specstrings.h(541): warning C4005: '__deref_out_ecount_full': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2735): note: see previous definition of '__deref_out_ecount_full'
+c:\users\princeqi\downloads\strsafe\specstrings.h(542): warning C4005: '__deref_out_bcount_full': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2736): note: see previous definition of '__deref_out_bcount_full'
+c:\users\princeqi\downloads\strsafe\specstrings.h(543): warning C4005: '__deref_inout': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2743): note: see previous definition of '__deref_inout'
+c:\users\princeqi\downloads\strsafe\specstrings.h(544): warning C4005: '__deref_inout_ecount': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2745): note: see previous definition of '__deref_inout_ecount'
+c:\users\princeqi\downloads\strsafe\specstrings.h(545): warning C4005: '__deref_inout_bcount': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2746): note: see previous definition of '__deref_inout_bcount'
+c:\users\princeqi\downloads\strsafe\specstrings.h(546): warning C4005: '__deref_inout_ecount_part': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2747): note: see previous definition of '__deref_inout_ecount_part'
+c:\users\princeqi\downloads\strsafe\specstrings.h(547): warning C4005: '__deref_inout_bcount_part': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2748): note: see previous definition of '__deref_inout_bcount_part'
+c:\users\princeqi\downloads\strsafe\specstrings.h(548): warning C4005: '__deref_inout_ecount_full': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2749): note: see previous definition of '__deref_inout_ecount_full'
+c:\users\princeqi\downloads\strsafe\specstrings.h(549): warning C4005: '__deref_inout_bcount_full': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2750): note: see previous definition of '__deref_inout_bcount_full'
+c:\users\princeqi\downloads\strsafe\specstrings.h(551): warning C4005: '__deref_ecount_opt': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2756): note: see previous definition of '__deref_ecount_opt'
+c:\users\princeqi\downloads\strsafe\specstrings.h(552): warning C4005: '__deref_bcount_opt': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2757): note: see previous definition of '__deref_bcount_opt'
+c:\users\princeqi\downloads\strsafe\specstrings.h(556): warning C4005: '__deref_out_opt': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2758): note: see previous definition of '__deref_out_opt'
+c:\users\princeqi\downloads\strsafe\specstrings.h(557): warning C4005: '__deref_out_ecount_opt': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2759): note: see previous definition of '__deref_out_ecount_opt'
+c:\users\princeqi\downloads\strsafe\specstrings.h(558): warning C4005: '__deref_out_bcount_opt': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2760): note: see previous definition of '__deref_out_bcount_opt'
+c:\users\princeqi\downloads\strsafe\specstrings.h(559): warning C4005: '__deref_out_ecount_part_opt': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2761): note: see previous definition of '__deref_out_ecount_part_opt'
+c:\users\princeqi\downloads\strsafe\specstrings.h(560): warning C4005: '__deref_out_bcount_part_opt': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2762): note: see previous definition of '__deref_out_bcount_part_opt'
+c:\users\princeqi\downloads\strsafe\specstrings.h(561): warning C4005: '__deref_out_ecount_full_opt': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2763): note: see previous definition of '__deref_out_ecount_full_opt'
+c:\users\princeqi\downloads\strsafe\specstrings.h(562): warning C4005: '__deref_out_bcount_full_opt': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2764): note: see previous definition of '__deref_out_bcount_full_opt'
+c:\users\princeqi\downloads\strsafe\specstrings.h(563): warning C4005: '__deref_inout_opt': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2771): note: see previous definition of '__deref_inout_opt'
+c:\users\princeqi\downloads\strsafe\specstrings.h(564): warning C4005: '__deref_inout_ecount_opt': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2772): note: see previous definition of '__deref_inout_ecount_opt'
+c:\users\princeqi\downloads\strsafe\specstrings.h(565): warning C4005: '__deref_inout_bcount_opt': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2773): note: see previous definition of '__deref_inout_bcount_opt'
+c:\users\princeqi\downloads\strsafe\specstrings.h(566): warning C4005: '__deref_inout_ecount_part_opt': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2774): note: see previous definition of '__deref_inout_ecount_part_opt'
+c:\users\princeqi\downloads\strsafe\specstrings.h(567): warning C4005: '__deref_inout_bcount_part_opt': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2775): note: see previous definition of '__deref_inout_bcount_part_opt'
+c:\users\princeqi\downloads\strsafe\specstrings.h(568): warning C4005: '__deref_inout_ecount_full_opt': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2776): note: see previous definition of '__deref_inout_ecount_full_opt'
+c:\users\princeqi\downloads\strsafe\specstrings.h(569): warning C4005: '__deref_inout_bcount_full_opt': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2777): note: see previous definition of '__deref_inout_bcount_full_opt'
+c:\users\princeqi\downloads\strsafe\specstrings.h(571): warning C4005: '__deref_opt_ecount': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2784): note: see previous definition of '__deref_opt_ecount'
+c:\users\princeqi\downloads\strsafe\specstrings.h(572): warning C4005: '__deref_opt_bcount': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2785): note: see previous definition of '__deref_opt_bcount'
+c:\users\princeqi\downloads\strsafe\specstrings.h(576): warning C4005: '__deref_opt_out': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2786): note: see previous definition of '__deref_opt_out'
+c:\users\princeqi\downloads\strsafe\specstrings.h(577): warning C4005: '__deref_opt_out_ecount': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2788): note: see previous definition of '__deref_opt_out_ecount'
+c:\users\princeqi\downloads\strsafe\specstrings.h(578): warning C4005: '__deref_opt_out_bcount': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2789): note: see previous definition of '__deref_opt_out_bcount'
+c:\users\princeqi\downloads\strsafe\specstrings.h(579): warning C4005: '__deref_opt_out_ecount_part': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2790): note: see previous definition of '__deref_opt_out_ecount_part'
+c:\users\princeqi\downloads\strsafe\specstrings.h(580): warning C4005: '__deref_opt_out_bcount_part': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2791): note: see previous definition of '__deref_opt_out_bcount_part'
+c:\users\princeqi\downloads\strsafe\specstrings.h(581): warning C4005: '__deref_opt_out_ecount_full': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2792): note: see previous definition of '__deref_opt_out_ecount_full'
+c:\users\princeqi\downloads\strsafe\specstrings.h(582): warning C4005: '__deref_opt_out_bcount_full': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2793): note: see previous definition of '__deref_opt_out_bcount_full'
+c:\users\princeqi\downloads\strsafe\specstrings.h(583): warning C4005: '__deref_opt_inout': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2794): note: see previous definition of '__deref_opt_inout'
+c:\users\princeqi\downloads\strsafe\specstrings.h(584): warning C4005: '__deref_opt_inout_ecount': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2795): note: see previous definition of '__deref_opt_inout_ecount'
+c:\users\princeqi\downloads\strsafe\specstrings.h(585): warning C4005: '__deref_opt_inout_bcount': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2796): note: see previous definition of '__deref_opt_inout_bcount'
+c:\users\princeqi\downloads\strsafe\specstrings.h(586): warning C4005: '__deref_opt_inout_ecount_part': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2797): note: see previous definition of '__deref_opt_inout_ecount_part'
+c:\users\princeqi\downloads\strsafe\specstrings.h(587): warning C4005: '__deref_opt_inout_bcount_part': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2798): note: see previous definition of '__deref_opt_inout_bcount_part'
+c:\users\princeqi\downloads\strsafe\specstrings.h(588): warning C4005: '__deref_opt_inout_ecount_full': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2799): note: see previous definition of '__deref_opt_inout_ecount_full'
+c:\users\princeqi\downloads\strsafe\specstrings.h(589): warning C4005: '__deref_opt_inout_bcount_full': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2800): note: see previous definition of '__deref_opt_inout_bcount_full'
+c:\users\princeqi\downloads\strsafe\specstrings.h(591): warning C4005: '__deref_opt_ecount_opt': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2807): note: see previous definition of '__deref_opt_ecount_opt'
+c:\users\princeqi\downloads\strsafe\specstrings.h(592): warning C4005: '__deref_opt_bcount_opt': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2808): note: see previous definition of '__deref_opt_bcount_opt'
+c:\users\princeqi\downloads\strsafe\specstrings.h(596): warning C4005: '__deref_opt_out_opt': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2809): note: see previous definition of '__deref_opt_out_opt'
+c:\users\princeqi\downloads\strsafe\specstrings.h(597): warning C4005: '__deref_opt_out_ecount_opt': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2810): note: see previous definition of '__deref_opt_out_ecount_opt'
+c:\users\princeqi\downloads\strsafe\specstrings.h(598): warning C4005: '__deref_opt_out_bcount_opt': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2811): note: see previous definition of '__deref_opt_out_bcount_opt'
+c:\users\princeqi\downloads\strsafe\specstrings.h(599): warning C4005: '__deref_opt_out_ecount_part_opt': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2812): note: see previous definition of '__deref_opt_out_ecount_part_opt'
+c:\users\princeqi\downloads\strsafe\specstrings.h(600): warning C4005: '__deref_opt_out_bcount_part_opt': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2813): note: see previous definition of '__deref_opt_out_bcount_part_opt'
+c:\users\princeqi\downloads\strsafe\specstrings.h(601): warning C4005: '__deref_opt_out_ecount_full_opt': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2814): note: see previous definition of '__deref_opt_out_ecount_full_opt'
+c:\users\princeqi\downloads\strsafe\specstrings.h(602): warning C4005: '__deref_opt_out_bcount_full_opt': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2815): note: see previous definition of '__deref_opt_out_bcount_full_opt'
+c:\users\princeqi\downloads\strsafe\specstrings.h(603): warning C4005: '__deref_opt_inout_opt': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2822): note: see previous definition of '__deref_opt_inout_opt'
+c:\users\princeqi\downloads\strsafe\specstrings.h(604): warning C4005: '__deref_opt_inout_ecount_opt': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2823): note: see previous definition of '__deref_opt_inout_ecount_opt'
+c:\users\princeqi\downloads\strsafe\specstrings.h(605): warning C4005: '__deref_opt_inout_bcount_opt': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2824): note: see previous definition of '__deref_opt_inout_bcount_opt'
+c:\users\princeqi\downloads\strsafe\specstrings.h(606): warning C4005: '__deref_opt_inout_ecount_part_opt': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2825): note: see previous definition of '__deref_opt_inout_ecount_part_opt'
+c:\users\princeqi\downloads\strsafe\specstrings.h(607): warning C4005: '__deref_opt_inout_bcount_part_opt': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2826): note: see previous definition of '__deref_opt_inout_bcount_part_opt'
+c:\users\princeqi\downloads\strsafe\specstrings.h(608): warning C4005: '__deref_opt_inout_ecount_full_opt': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2827): note: see previous definition of '__deref_opt_inout_ecount_full_opt'
+c:\users\princeqi\downloads\strsafe\specstrings.h(609): warning C4005: '__deref_opt_inout_bcount_full_opt': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2828): note: see previous definition of '__deref_opt_inout_bcount_full_opt'
+c:\users\princeqi\downloads\strsafe\specstrings.h(629): warning C4005: '__success': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2846): note: see previous definition of '__success'
+c:\users\princeqi\downloads\strsafe\specstrings.h(630): warning C4005: '__nullterminated': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2847): note: see previous definition of '__nullterminated'
+c:\users\princeqi\downloads\strsafe\specstrings.h(631): warning C4005: '__nullnullterminated': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2848): note: see previous definition of '__nullnullterminated'
+c:\users\princeqi\downloads\strsafe\specstrings.h(632): warning C4005: '__reserved': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2849): note: see previous definition of '__reserved'
+c:\users\princeqi\downloads\strsafe\specstrings.h(633): warning C4005: '__checkReturn': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2850): note: see previous definition of '__checkReturn'
+c:\users\princeqi\downloads\strsafe\specstrings.h(634): warning C4005: '__typefix': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2851): note: see previous definition of '__typefix'
+c:\users\princeqi\downloads\strsafe\specstrings.h(637): warning C4005: '__format_string': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2854): note: see previous definition of '__format_string'
+c:\users\princeqi\downloads\strsafe\specstrings.h(638): warning C4005: '__blocksOn': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2855): note: see previous definition of '__blocksOn'
+c:\users\princeqi\downloads\strsafe\specstrings.h(639): warning C4005: '__control_entrypoint': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2856): note: see previous definition of '__control_entrypoint'
+c:\users\princeqi\downloads\strsafe\specstrings.h(640): warning C4005: '__data_entrypoint': macro redefinition
+  d:\softwares\editors\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2857): note: see previous definition of '__data_entrypoint'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\fileapi.h(963): error C2061: syntax error: identifier '__out_data_source'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\fileapi.h(976): error C2061: syntax error: identifier '__out_data_source'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\errhandlingapi.h(79): error C2144: syntax error: 'void' should be preceded by ';'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\errhandlingapi.h(79): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\errhandlingapi.h(124): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\errhandlingapi.h(124): error C2146: syntax error: missing ';' before identifier 'DWORD'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\heapapi.h(128): error C2061: syntax error: identifier '_Frees_ptr_opt_'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\heapapi.h(140): error C2061: syntax error: identifier '_Frees_ptr_opt_'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\memoryapi.h(283): error C2065: 'FILE': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\memoryapi.h(283): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\memoryapi.h(283): error C2491: '__out_data_source': definition of dllimport data not allowed
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\memoryapi.h(285): error C2146: syntax error: missing ';' before identifier 'LPVOID'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\memoryapi.h(296): error C2065: 'FILE': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\memoryapi.h(296): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\memoryapi.h(296): error C2374: '__out_data_source': redefinition; multiple initialization
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\memoryapi.h(283): note: see declaration of '__out_data_source'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\memoryapi.h(296): error C2491: '__out_data_source': definition of dllimport data not allowed
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\memoryapi.h(298): error C2146: syntax error: missing ';' before identifier 'LPVOID'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\memoryapi.h(569): error C2065: 'FILE': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\memoryapi.h(569): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\memoryapi.h(569): error C2374: '__out_data_source': redefinition; multiple initialization
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\memoryapi.h(283): note: see declaration of '__out_data_source'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\memoryapi.h(569): error C2491: '__out_data_source': definition of dllimport data not allowed
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\memoryapi.h(571): error C2146: syntax error: missing ';' before identifier 'PVOID'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\memoryapi.h(1034): error C2065: 'FILE': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\memoryapi.h(1034): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\memoryapi.h(1034): error C2374: '__out_data_source': redefinition; multiple initialization
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\memoryapi.h(283): note: see declaration of '__out_data_source'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\memoryapi.h(1034): error C2491: '__out_data_source': definition of dllimport data not allowed
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\memoryapi.h(1036): error C2146: syntax error: missing ';' before identifier 'PVOID'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\memoryapi.h(1053): error C2065: 'FILE': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\memoryapi.h(1053): error C2433: '__out_data_source': '__forceinline' not permitted on data declarations
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\memoryapi.h(1053): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\memoryapi.h(1053): error C2374: '__out_data_source': redefinition; multiple initialization
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\memoryapi.h(283): note: see declaration of '__out_data_source'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\memoryapi.h(1055): error C2146: syntax error: missing ';' before identifier 'PVOID'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\jobapi2.h(69): error C2065: '_Frees_ptr_': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\jobapi2.h(69): error C2062: type 'void' unexpected
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(953): error C2065: 'hMem': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(953): error C2065: 'dwBytes': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(953): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(953): error C2491: '_Ret_reallocated_bytes_': definition of dllimport data not allowed
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(956): error C2448: '_Ret_reallocated_bytes_': function-style initializer appears to be a function definition
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(958): error C2065: '_Frees_ptr_': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(958): error C2146: syntax error: missing ')' before identifier 'HGLOBAL'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(1024): error C2065: '_Frees_ptr_opt_': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(1024): error C2146: syntax error: missing ')' before identifier 'HGLOBAL'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(1094): error C2065: 'hMem': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(1094): error C2065: 'uBytes': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(1094): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(1094): error C2374: '_Ret_reallocated_bytes_': redefinition; multiple initialization
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(953): note: see declaration of '_Ret_reallocated_bytes_'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(1094): error C2491: '_Ret_reallocated_bytes_': definition of dllimport data not allowed
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(1097): error C2448: '_Ret_reallocated_bytes_': function-style initializer appears to be a function definition
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(1099): error C2065: '_Frees_ptr_opt_': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(1099): error C2146: syntax error: missing ')' before identifier 'HLOCAL'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(1177): error C2065: '_Frees_ptr_opt_': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(1177): error C2146: syntax error: missing ')' before identifier 'HLOCAL'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(1350): error C2144: syntax error: 'void' should be preceded by ';'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(1493): error C3646: 'CompletionList': unknown override specifier
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(1493): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(1499): error C3646: 'SchedulerProc': unknown override specifier
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(1499): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(1524): error C2065: 'PUMS_COMPLETION_LIST': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(1524): error C2065: 'UmsCompletionList': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(1525): warning C4229: anachronism used: modifiers on data are ignored
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(1525): error C2491: 'CreateUmsCompletionList': definition of dllimport data not allowed
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(1531): error C2065: 'PUMS_COMPLETION_LIST': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(1531): error C2146: syntax error: missing ')' before identifier 'UmsCompletionList'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(1540): error C2065: 'PUMS_COMPLETION_LIST': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(1540): error C2146: syntax error: missing ')' before identifier 'UmsCompletionList'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(1548): error C2065: 'PUMS_CONTEXT': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(1549): error C2146: syntax error: missing ')' before identifier 'UmsThread'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(1562): error C2065: 'PUMS_COMPLETION_LIST': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(1563): error C2146: syntax error: missing ')' before identifier 'UmsCompletionList'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(1567): error C2143: syntax error: missing ';' before '__stdcall'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(1574): error C2143: syntax error: missing ';' before '__stdcall'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(1576): error C2065: 'PUMS_CONTEXT': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(1577): error C2146: syntax error: missing ')' before identifier 'UmsContext'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(1583): error C2065: 'PUMS_CONTEXT': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(1583): error C2146: syntax error: missing ')' before identifier 'UmsThread'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(1594): error C2065: 'PUMS_CONTEXT': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(1594): error C2146: syntax error: missing ')' before identifier 'UmsThread'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(1604): error C2065: 'PUMS_CONTEXT': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(1605): error C2146: syntax error: missing ')' before identifier 'UmsThread'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(1611): error C2065: 'PUMS_CONTEXT': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(1611): error C2065: 'lpUmsThread': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(1612): warning C4229: anachronism used: modifiers on data are ignored
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(1612): error C2491: 'CreateUmsThreadContext': definition of dllimport data not allowed
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(1618): error C2065: 'PUMS_SCHEDULER_STARTUP_INFO': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(1619): error C2146: syntax error: missing ')' before identifier 'SchedulerStartupInfo'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(1626): error C2061: syntax error: identifier 'PUMS_SYSTEM_THREAD_INFORMATION'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(2313): error C2143: syntax error: missing ';' before '__stdcall'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(2628): error C2065: 'PFE_EXPORT_FUNC': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(2628): error C2146: syntax error: missing ')' before identifier 'pfExportCallback'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(2637): error C2065: 'PFE_IMPORT_FUNC': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(2637): error C2146: syntax error: missing ')' before identifier 'pfImportCallback'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(3026): error C2146: syntax error: missing ';' before identifier 'STARTUPINFOEX'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(3027): error C2146: syntax error: missing ';' before identifier 'LPSTARTUPINFOEX'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(5331): error C2061: syntax error: identifier 'LPPROGRESS_ROUTINE'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(5343): error C2061: syntax error: identifier 'LPPROGRESS_ROUTINE'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(5369): error C2061: syntax error: identifier 'LPPROGRESS_ROUTINE'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(5381): error C2061: syntax error: identifier 'LPPROGRESS_ROUTINE'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(5442): error C3646: 'Type': unknown override specifier
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(5442): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(5496): error C3646: 'CopyPhase': unknown override specifier
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(5496): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(5512): error C2059: syntax error: '__stdcall'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(5521): error C3646: 'pProgressRoutine': unknown override specifier
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(5521): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(5625): error C2061: syntax error: identifier 'LPPROGRESS_ROUTINE'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(5635): error C2061: syntax error: identifier 'LPPROGRESS_ROUTINE'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(5659): error C2061: syntax error: identifier 'LPPROGRESS_ROUTINE'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(5670): error C2061: syntax error: identifier 'LPPROGRESS_ROUTINE'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(6282): error C3646: 'OperationId': unknown override specifier
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(6282): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(6294): error C3646: 'OperationId': unknown override specifier
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(6294): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(6304): error C2065: 'OPERATION_START_PARAMETERS': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(6304): error C2065: 'OperationStartParams': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(6305): warning C4229: anachronism used: modifiers on data are ignored
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(6305): error C2491: 'OperationStart': definition of dllimport data not allowed
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(6311): error C2065: 'OPERATION_END_PARAMETERS': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(6311): error C2065: 'OperationEndParams': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(6312): warning C4229: anachronism used: modifiers on data are ignored
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(6312): error C2491: 'OperationEnd': definition of dllimport data not allowed
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(6312): fatal error C1003: error count exceeds 100; stopping compilation

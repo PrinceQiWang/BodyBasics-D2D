@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (BodyBasics-D2D.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  BodyBasics.cpp
+  BodyBasics-D2D.vcxproj -> D:\Project\kinect2.0-opencv\BodyBasics-D2D\x64\Debug\BodyBasics.exe
+  BodyBasics-D2D.vcxproj -> D:\Project\kinect2.0-opencv\BodyBasics-D2D\x64\Debug\BodyBasics.pdb (Full PDB)
